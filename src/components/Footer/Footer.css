@@ -1,0 +1,32 @@
+.footer {
+  position: relative;
+  }
+
+.footer__container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.link {
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+@media(max-width:768px)
+{
+  .link{
+    margin: 0 4px;
+  }
+}
+
+@media(max-width:480px)
+{
+  .link{
+    margin: 0 0;
+    
+  }
+
+
+}
