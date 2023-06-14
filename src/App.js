@@ -5,7 +5,10 @@ import "./App.css";
 import "@fontsource/montserrat";
 import About from "./components/About/About";
 import Resume from "./components/Resume/Resume";
+import Contact from "./components/Contact/Contact";
+
 function App() {
+
   return (
     <div className="App">
       <BrowserRouter>
@@ -14,6 +17,7 @@ function App() {
           <Route path="/" exact Component={Home} />
           <Route path="/about" Component={About} />
           <Route path="/resume" Component={Resume} />
+          <Route path="/contact" Component={Contact} />
 
         </Routes>
       </BrowserRouter>

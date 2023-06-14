@@ -1,3 +1,4 @@
 .background{
     position: fixed !important;
+    z-index: 0;
 }

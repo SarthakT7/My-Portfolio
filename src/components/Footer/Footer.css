@@ -14,19 +14,21 @@
   margin: 0 10px;
 }
 
-@media(max-width:768px)
-{
-  .link{
-    margin: 0 4px;
+@media screen and (max-width: 1024px) {
+  .link {
+    text-decoration: none;
+    margin: 0 10px;
   }
 }
 
-@media(max-width:480px)
-{
-  .link{
-    margin: 0 0;
-    
+@media screen and (max-width: 768px) {
+  .footer__container {
+    position: static;
+    transform: none;
+    text-align: center;
   }
-
-
+  
+  .link {
+    display: block;
+  }
 }
