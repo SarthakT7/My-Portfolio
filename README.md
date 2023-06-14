@@ -24,10 +24,6 @@ To get a local copy of the portfolio up and running, follow these steps:
 4. Start the development server: `npm start`
 5. Open your browser and visit `http://localhost:3000` to view the portfolio.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and customize it according to your needs.
-
 ## Contact
 
 If you have any questions, suggestions, or would like to connect, please feel free to reach out to me. You can find my contact information in the portfolio's Contact section.
