@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! This is a multi-page web application built using ReactJS, EmailJS, CSS3, and other technologies. It is designed to showcase my introduction and work.
 
-Link to the Portfolio : https://my-portfolio-sarthakt7.vercel.app/
+Link to the Portfolio : https://portfolio.sarthakthakkar.pro/
 ## Features
 
 - **Responsive Design**: The portfolio is built with a responsive design, ensuring that it looks great and functions well on different devices and screen sizes.
