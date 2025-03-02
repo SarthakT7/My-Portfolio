@@ -45,7 +45,7 @@ const Resume = () => {
         <div className="__iframe" id="iframeContainer">
           <p align="center">
             <iframe
-              src="https://drive.google.com/file/d/1o4-B27bCRV_mNEyydj6XUQ4WYArLQsU2/preview"
+              src="https://drive.google.com/file/d/1g4gJcZDrbKFIHuEotjTvDAR35X4idmG5/preview"
               ref={iframeRef}
               allow="autoplay"
             ></iframe>

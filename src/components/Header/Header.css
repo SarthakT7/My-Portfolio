@@ -54,6 +54,21 @@ img{
   transform: scaleX(1);
   transform-origin: bottom left;
 }
+
+.hamburger-menu {
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.bar {
+  width: 25px;
+  height: 3px;
+  background-color: #333;
+  margin-bottom: 5px;
+}
+
+
 @media (max-width: 768px) {
   .navbar__list {
     flex-direction: column;
@@ -99,4 +114,4 @@ img{
   .navbar__item {
     margin: 5px 0;
   } 
-}
+} 
